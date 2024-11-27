@@ -4,7 +4,7 @@ Este repositorio contiene una serie de ejercicios diseñados para practicar conc
 
 ## Checklist de Ejercicios
 
-- [ ] **hello_world**  
+- [x] **hello_world**  
        Imprimir "Hello World" continuamente en el monitor serie.
 
 - [ ] **delay**
