@@ -18,7 +18,7 @@ Este repositorio contiene una serie de ejercicios diseñados para practicar conc
   - Restar el valor de `ctr2` al de `ctr1` cuando `ctr2` se incremente.
   - Imprimir los valores con el formato `C1: {valor ctr1} C2: {valor ctr2}`.
 
-- [ ] **millis**  
+- [x] **millis**  
        Repetir el ejercicio **delay**, pero utilizando `millis()` en lugar de `delay()`.
 
 - [ ] **micros**  
