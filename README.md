@@ -11,7 +11,7 @@ Este repositorio contiene una serie de ejercicios diseñados para practicar conc
 
   - Incrementar un contador e imprimirlo por el monitor serie cada segundo usando `delay()`.
 
-- [ ] **delay_2**
+- [x] **delay_2**
 
   - Incrementar el contador `ctr1` 10 veces por segundo.
   - Incrementar el contador `ctr2` 1 vez cada 2 segundos.
