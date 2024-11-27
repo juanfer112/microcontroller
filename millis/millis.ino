@@ -2,7 +2,7 @@
 int counter = 0;
 
 // Almacenar el tiempo de la última actualización en milisegundos
-uint64_t lastUpdateTime = 0;
+uint64_t last_update_time = 0;
 
 const int INTERVAL = 1000; // Intervalo de 1 segundo
 
@@ -16,12 +16,12 @@ void loop() {
 }
 
 void handleCounter() {
-  uint64_t currentTime  = millis();
+  uint64_t current_time  = millis();
 
-  if((currentTime  - lastUpdateTime) > INTERVAL) {// Esperar 1 segundo (1000 milisegundos)
+  if((current_time  - last_update_time) > INTERVAL) {// Esperar 1 segundo (1000 milisegundos)
     counter++;
     Serial.print("Counter: ");
     Serial.println(counter);
-    lastUpdateTime = currentTime ;
+    last_update_time = current_time;
   }
 }
