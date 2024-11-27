@@ -7,7 +7,7 @@ Este repositorio contiene una serie de ejercicios diseñados para practicar conc
 - [x] **hello_world**  
        Imprimir "Hello World" continuamente en el monitor serie.
 
-- [ ] **delay**
+- [x] **delay**
 
   - Incrementar un contador e imprimirlo por el monitor serie cada segundo usando `delay()`.
 
