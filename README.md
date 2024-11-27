@@ -1,11 +1,11 @@
 # Ejercicios Microcontroladores
 
-Este repositorio contiene una serie de ejercicios diseñados para practicar conceptos básicos y avanzados con microcontroladores. A medida que completes cada ejercicio, marca la casilla correspondiente en el checklist.
+Este repositorio contiene una serie de ejercicios diseñados para practicar conceptos con microcontroladores. A medida que este completado cada ejercicio, su casilla correspondiente estará marcada en el checklist.
 
 ## Checklist de Ejercicios
 
 - [ ] **hello_world**  
-      Imprimir "Hello World" continuamente en el monitor serie.
+       Imprimir "Hello World" continuamente en el monitor serie.
 
 - [ ] **delay**
 
@@ -19,10 +19,10 @@ Este repositorio contiene una serie de ejercicios diseñados para practicar conc
   - Imprimir los valores con el formato `C1: {valor ctr1} C2: {valor ctr2}`.
 
 - [ ] **millis**  
-      Repetir el ejercicio **delay**, pero utilizando `millis()` en lugar de `delay()`.
+       Repetir el ejercicio **delay**, pero utilizando `millis()` en lugar de `delay()`.
 
 - [ ] **micros**  
-      Repetir el ejercicio **delay_2**, pero utilizando `micros()` en lugar de `delay()`.
+       Repetir el ejercicio **delay_2**, pero utilizando `micros()` en lugar de `delay()`.
 
 - [ ] **echo**
 
@@ -30,7 +30,7 @@ Este repositorio contiene una serie de ejercicios diseñados para practicar conc
   - Cambiar mayúsculas por minúsculas y viceversa antes de reenviar los datos.
 
 - [ ] **Aplicación de línea de comandos**  
-      Implementar un menú interactivo por puerto serie con las siguientes opciones:
+       Implementar un menú interactivo por puerto serie con las siguientes opciones:
   - `H` o `h`: Mostrar el menú de ayuda.
   - `START` o `start`: Publicar un valor cada segundo.
   - `STOP` o `stop`: Detener la publicación.
