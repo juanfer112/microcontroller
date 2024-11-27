@@ -21,7 +21,7 @@ Este repositorio contiene una serie de ejercicios diseñados para practicar conc
 - [x] **millis**  
        Repetir el ejercicio **delay**, pero utilizando `millis()` en lugar de `delay()`.
 
-- [ ] **micros**  
+- [x] **micros**  
        Repetir el ejercicio **delay_2**, pero utilizando `micros()` en lugar de `delay()`.
 
 - [ ] **echo**
