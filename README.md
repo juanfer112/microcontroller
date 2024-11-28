@@ -24,7 +24,7 @@ Este repositorio contiene una serie de ejercicios diseñados para practicar conc
 - [x] **micros**  
        Repetir el ejercicio **delay_2**, pero utilizando `micros()` en lugar de `delay()`.
 
-- [ ] **echo**
+- [x] **echo**
 
   - Recibir datos por la conexión serie.
   - Cambiar mayúsculas por minúsculas y viceversa antes de reenviar los datos.
